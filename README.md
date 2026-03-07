@@ -1,6 +1,8 @@
 # ObsidianPink
 A cute, pink and minimal Obsidian theme, based on the [HyprPink](https://github.com/zhav0ronok/hyprpink) color scheme.
 
+![image](https://github.com/user-attachments/assets/693e8270-1c15-4db2-9c9f-c7b65c627502)
+
 ***
 
 ### Suggested Fonts:
@@ -13,9 +15,11 @@ In the ```Appearance``` section of your Settings, I suggest setting the Accent C
 
 Aside from that, I find that this theme works very well with the following plugins:
 * Folder Notes
+* Excalidraw
 * Google Calendar
 * Iconize
 * Latex Suite
+* Desmos
 * Templater
 * Image Border Style (optional)
 
